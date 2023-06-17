@@ -1,1 +1,4 @@
 node_modules/
+[Zz]*
+*.env
+artifacts/
